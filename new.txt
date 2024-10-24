@@ -1,1 +1,78 @@
-hai hello the world
+hai hello the world the wortd is waste
+You
+number values
+Copilot
+Got it. For a right-angled triangle, if you need the actual numbers for 
+a
+, 
+b
+, and 
+c
+, you can use the Pythagorean theorem I mentioned:
+
+If you know 
+a
+ and 
+b
+, 
+c
+=
+a
+2
++
+b
+2
+
+If you know 
+a
+ and 
+c
+, 
+b
+=
+c
+2
+−
+a
+2
+
+If you know 
+b
+ and 
+c
+, 
+a
+=
+c
+2
+−
+b
+2
+
+Let’s plug in some numbers. Say 
+a
+=
+3
+ and 
+b
+=
+4
+:
+
+c
+=
+3
+2
++
+4
+2
+=
+9
++
+16
+=
+25
+=
+5
+
+So with these values, the sides of your right-angled triangle would be 3, 4, and 5. Makes sense?
